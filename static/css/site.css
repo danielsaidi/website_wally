@@ -1,0 +1,71 @@
+body {
+	background: url(../img/bg__dark_leather.png) black;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	color: white;
+}
+
+a {
+	color: white;
+}
+  
+a:hover {
+	text-decoration: underline;	
+}
+  
+h1 {
+	font: 2.7em 'Pacifico', cursive;
+	margin-bottom: 20px;
+}
+  
+h1 + div p {
+	font-weight: normal;
+	font-size: 1.1em;
+	line-height: 1.5em;
+}
+  
+hr {
+	height: 0px;
+	border-top: solid 1px #333;
+	border-bottom: solid 1px black;
+}
+
+
+.row.call-to-action-buttons div {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;	
+}
+
+.devices {
+	text-align: right;
+}
+
+
+footer a {
+	margin-left: 10px;
+	margin-right: 10px;	
+}
+  
+footer a:last-of-type {
+	margin-right: 0px;	
+}
+  
+footer div {
+	font-size: 0.9em;
+}
+  
+footer div+div {
+	text-align:right;
+}
+
+  
+/* Movie popup */
+.ui-dialog-content {
+	min-height: 0px !important;
+}
+  
+.ui-dialog-content iframe {
+	height: 390px;
+}
+  
