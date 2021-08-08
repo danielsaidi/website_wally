@@ -36,9 +36,6 @@ collections:
   posts:
     output: true
     permalink: /blog/:categories/:year/:month/:day/:title
-  sponsors:
-    output: true
-    permalink: /sponsor/:name/
 
 defaults:
   -
