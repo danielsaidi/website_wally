@@ -1,0 +1,22 @@
+$background: #000;
+$foreground: #fff;
+$gray: #222;
+$box: #f0f0f0;
+
+html, body {
+  color: $foreground;
+  background-color: $background;
+}
+
+.site-header {
+  background-color: $gray;
+}
+
+a, a:visited {
+  color: $foreground;
+  font-weight: bold;
+}
+
+a:hover {
+  color: $foreground;
+}

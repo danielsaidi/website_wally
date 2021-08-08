@@ -1,0 +1,63 @@
+# Site settings
+# These are used to personalize your site. You access them via {{ site.title }}, 
+# {{ site.email }} and so on. You can create any custom variable you like. They
+# will be accessible in the templates via {{ site.myvariable }}.
+
+title: KeyboardKit
+email: info@wally.app
+description: >-
+  Wally is a digital wallet for iOS.
+
+baseurl: ""
+url: "http://wally.app"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+copyright: © 2021 Daniel Saidi. All rights reserved.
+twitter_url: https://twitter.com/danielsaidi
+twitter_username: danielsaidi
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+header_pages:
+  - index.html
+  - pages/privacy-policy.md
+  - pages/blog.md
+
+collections_dir: collections
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:categories/:year/:month/:day/:title
+  sponsors:
+    output: true
+    permalink: /sponsor/:name/
+
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      hero: ""
+  -
+    scope:
+      type: "posts"
+    values:
+      author: "danielsaidi"
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
