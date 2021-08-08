@@ -3,7 +3,7 @@
 # {{ site.email }} and so on. You can create any custom variable you like. They
 # will be accessible in the templates via {{ site.myvariable }}.
 
-title: KeyboardKit
+title: Wally
 email: info@wally.app
 description: >-
   Wally is a digital wallet for iOS.
