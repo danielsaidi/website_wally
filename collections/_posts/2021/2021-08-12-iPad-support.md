@@ -3,12 +3,13 @@ title:  iPad support coming soon
 date:   2021-08-12 18:00:00 +0100
 tags:   general
 
-image:  https://wally.app/assets/devices.png
+image:       https://wally.app/assets/devices-leather.png
+image-trans: https://wally.app/assets/devices.png
 ---
 
 iPad support is coming to Wally. It will be available in the upcoming 3.2 version and will let you access your cards on all your mobile devices.
 
-![iOS devices running Wally]({{page.image}} "Wally soon comes to iPad")
+![iOS devices running Wally]({{page.image-trans}} "Wally soon comes to iPad")
 
 Adding iPad support to Wally has been a pretty smooth ride, where the biggest change has been how cards are presented and how they behave in your wallet. 
 

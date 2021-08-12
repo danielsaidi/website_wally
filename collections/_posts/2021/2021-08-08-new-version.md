@@ -2,11 +2,14 @@
 title:  A brand new version of Wally
 date:   2021-08-08 18:00:00 +0100
 tags:   general
+
+image:       https://wally.app/assets/phones-leather.png
+image-trans: https://wally.app/assets/phones.png
 ---
 
 The Wally app for iOS has been around for 9 years, but it isn't until now that it has been properly rewritten to make way for new exciting features. Here's what's new.
 
-![iPhones running Wally](https://wally.app/assets/devices-phones.png "Wally runs on iPhone.")
+![iPhones running Wally]({{page.image-trans}} "Wally runs on iPhone.")
 
 
 ## The history of Wally
