@@ -1,5 +1,5 @@
 ---
-title:  iPad support
+title:  iPad support is coming
 date:   2021-08-12 18:00:00 +0100
 tags:   general
 

@@ -1,5 +1,5 @@
 ---
-title:  iPad support is out
+title:  iPad support is now available
 date:   2021-08-15 18:00:00 +0100
 tags:   general
 
