@@ -1,5 +1,5 @@
 ---
-title:  A brand new version of Wally
+title:  A brand new app is coming
 date:   2021-08-08 18:00:00 +0100
 tags:   general
 
