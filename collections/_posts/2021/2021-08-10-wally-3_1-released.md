@@ -3,8 +3,8 @@ title:  Wally 3.1 is released
 date:   2021-08-10 18:00:00 +0100
 tags:   general
 
-image:       https://wally.app/assets/phones-leather.png
-image-trans: https://wally.app/assets/phones.png
+image:       https://wally.app/assets/phones-v3-leather.png
+image-trans: https://wally.app/assets/phones-v3.png
 ---
 
 Wally 3.1 has been released, with all the new features mentioned in the previous post. It's a big leap forward, that will let Wally evolve even more in the future.
