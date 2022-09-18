@@ -3,7 +3,7 @@ title:  Wally 3.3 is released
 date:   2021-08-18 18:00:00 +0100
 tags:   general
 
-image:       https://wally.app/assets/blog/devices-v3-leather.png
+image:       https://wally.app/assets/blog/devices-v3-leather.jpg
 image-trans: https://wally.app/assets/blog/devices-v3.png
 ---
 
