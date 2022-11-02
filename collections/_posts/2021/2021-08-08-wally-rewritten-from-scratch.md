@@ -3,8 +3,8 @@ title:  Wally is being rewritten from scratch
 date:   2021-08-08 18:00:00 +0100
 tags:   general
 
-image:       https://wally.app/assets/phones-v3-leather.jpg
-image-trans: https://wally.app/assets/phones-v3.png
+image:       https://wally.app/assets/blog/phones-v3-leather.jpg
+image-trans: https://wally.app/assets/blog/phones-v3.png
 ---
 
 The Wally app for iOS has been around for 9 years, but it isn't until now that it has been properly rewritten to make way for new exciting features. Here's what's new.

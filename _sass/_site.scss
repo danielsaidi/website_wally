@@ -1,15 +1,18 @@
-$standard-margin: 20px;
+@import "kankoda/_variables";
+@import "site/_variables";
 
-@import "site/global";
+@import "kankoda/app-store";
+@import "kankoda/blog";
+@import "kankoda/code";
+@import "kankoda/global";
+@import "kankoda/heros";
+@import "kankoda/grids";
+@import "kankoda/layout";
+@import "kankoda/lists";
+@import "kankoda/site-header";
+@import "kankoda/site-footer";
+@import "kankoda/typography";
 
-@import "site/code";
-@import "site/colors";
-@import "site/content";
-@import "site/grids";
-@import "site/hero";
-@import "site/home";
-@import "site/images";
-@import "site/lists";
-@import "site/typography";
+@import "site/site";
 
 @import url("css/syntax.css");

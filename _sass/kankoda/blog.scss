@@ -1,0 +1,26 @@
+.blog {
+
+  .post-date {
+    font-size: small; 
+    margin-bottom: 0px;
+    color: $foreground-secondary !important;
+  }
+
+  .post-date + h1 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .post-date + h2 {
+    margin-top: 7px !important;
+  }
+
+  .list {
+
+    margin-top: 50px;
+
+    article + article {
+      margin-top: 50px;
+    }
+  }
+}

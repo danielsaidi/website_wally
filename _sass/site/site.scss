@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient($texture-overlay, $texture-overlay), $texture;
+  background-size: $texture-size;
+}
+
+.site-header {
+  .logo {
+    filter: drop-shadow(0 1mm 4mm $shadow) !important;
+  }
+}
+
+a:hover, a:visited:hover {
+  text-shadow: 1px 2px 15px $shadow;
+}
+
+.hero {
+  background-size: $texture-size;
+}
+
+footer {
+    background: $texture-overlay !important;
+}
+
+.home {
+    .hero-line {
+        margin-top: -165px;
+        margin-bottom: 80px;
+    }
+}

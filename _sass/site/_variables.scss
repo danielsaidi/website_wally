@@ -1,0 +1,15 @@
+$background: #080808;
+$foreground: #fff;
+$foreground-dimmed: #d5d5d5;
+$foreground-light: #fff;
+$foreground-secondary: #aaa;
+$shadow: black;
+
+$texture: url('/assets/leather.png');
+$texture-overlay: #080808aa;
+$texture-size: 350px;
+
+$hero-background: $texture;
+$hero-line: $texture-overlay;
+
+$footer-background: transparent;
