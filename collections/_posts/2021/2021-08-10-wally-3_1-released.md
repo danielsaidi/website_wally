@@ -1,7 +1,7 @@
 ---
 title:  Wally 3.1 is released
 date:   2021-08-10 18:00:00 +0100
-tags:   general
+tags:   releases
 
 image:       https://wally.app/assets/blog/phones-v3-leather.jpg
 image-trans: https://wally.app/assets/blog/phones-v3.png

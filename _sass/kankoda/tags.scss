@@ -1,0 +1,16 @@
+.tag {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 3px 10px 4px 10px;
+  border-radius: 100px;
+  background-color: $tag-background;
+  border: $tag-border;
+}
+
+.tag:hover {
+  background-color: $tag-hover;
+}
+
+section.tag-list {
+  margin-left: -8px;
+}

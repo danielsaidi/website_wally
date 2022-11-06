@@ -1,19 +1,24 @@
 .blog {
 
-  .post-date {
+  .post-header {
     font-size: small; 
     font-weight: normal;
     margin-bottom: 0px;
     color: $foreground-secondary !important;
+
+    .tags {
+      margin-left: -8px;
+      margin-bottom: 10px;
+    }
   }
 
-  .post-date + h1 {
+  .post-header + h1 {
     margin-top: 0px !important;
     margin-bottom: 20px !important;
   }
 
-  .post-date + h2 {
-    margin-top: 7px !important;
+  .post-header + h2 {
+    margin-top: 0px !important;
   }
 
   .list {
