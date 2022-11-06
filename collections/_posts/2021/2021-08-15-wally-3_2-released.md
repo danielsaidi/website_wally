@@ -1,7 +1,7 @@
 ---
 title:  Wally 3.2 is released
 date:   2021-08-15 18:00:00 +0100
-tags:   general
+tags:   releases
 
 image:       https://wally.app/assets/devices-v3-leather.jpg
 image-trans: https://wally.app/assets/devices.png
