@@ -3,11 +3,13 @@ layout: default
 ---
 
 <article class="blog post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <p class="post-date">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {{ page.date | date: date_format }}
-  </p>
-  <h1>{{ page.title | escape }}</h1>
+  
+  <h1>
+    <p class="post-date">
+      {%- include kankoda/blog/post-date.html date=page.date -%}
+    </p>
+    {{ page.title | escape }}
+  </h1>
   <div class="e-content" itemprop="articleBody">
     {{ content }}
   </div>
