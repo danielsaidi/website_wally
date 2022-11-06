@@ -8,23 +8,25 @@ email: info@wally.app
 description: >-
   Wally is a digital backup of your physical wallet. Put your cards into Wally to keep them safe and available at all times.
 
-baseurl: ""
+copyright: © 2012-2022 Kankoda Sweden AB. All rights reserved.
+
+appstore_url: http://itunes.apple.com/app/wally/id516398915
+twitter_url: https://twitter.com/thewallyapp
+twitter_username: thewallyapp
 url: "https://wally.app"
-theme: minima
 
 assets: "https://wally.app/assets/"
 header_icon: /assets/icon/icon-320.png
 header_icon_type: icon
 
+blog_tag_cloud: 0
+
+baseurl: ""
+theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-copyright: © 2012-2022 Kankoda Sweden AB. All rights reserved.
-appstore_url: http://itunes.apple.com/app/wally/id516398915
-twitter_url: https://twitter.com/thewallyapp
-twitter_username: thewallyapp
 
 plugins:
   - jekyll-feed
