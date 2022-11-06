@@ -1,0 +1,7 @@
+{% if page.hero == "home" %}
+    {% include heros/home.html %}
+{% elsif page.hero == "open-source" %}
+    {% include heros/open-source.html %}
+{% elsif page.hero == "pro" %}
+    {% include heros/pro.html %}
+{% endif %}

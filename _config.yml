@@ -9,8 +9,12 @@ description: >-
   Wally is a digital backup of your physical wallet. Put your cards into Wally to keep them safe and available at all times.
 
 baseurl: ""
-url: "http://wally.app"
+url: "https://wally.app"
 theme: minima
+
+assets: "https://wally.app/assets/"
+header_icon: /assets/icon/icon-320.png
+header_icon_type: icon
 
 markdown: kramdown
 kramdown:
