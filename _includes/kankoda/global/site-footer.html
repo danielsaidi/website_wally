@@ -19,6 +19,16 @@
       </div>
       {% endif %}
       
+      {% if site.is_lib == 1 %}
+      <div class="column">
+        <p>Code</p>
+        <a href="{{ site.github_url }}">GitHub</a>
+        <a href="{{ site.github_url }}/issues">Issues</a>
+        <a href="{{ site.documentation_url }}">Documentation</a>
+        {%- include kankoda/global/site-footer-links.html title="App" paths=site.footer_pages_app -%}
+      </div>
+      {% endif %}
+      
       <div class="column">
         <p>Social</p>
         {% if site.twitter_url %}
