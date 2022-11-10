@@ -22,8 +22,8 @@ twitter_url: https://twitter.com/thewallyapp
 twitter_username: thewallyapp
 
 assets: /assets/
-header_icon: /assets/icon/icon-320.png
-header_icon_type: icon
+header_image: /assets/icon/icon-320.png
+header_image_type: icon
 
 header_pages:
   - index.html
