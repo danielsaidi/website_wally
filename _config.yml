@@ -9,6 +9,7 @@ description: >-
   Wally is a digital backup of your physical wallet. Put your cards into Wally to keep them safe and available at all times.
 
 url: https://wally.app
+rss_url: https://getlicensekit.com/feed.xml
 is_app: 1
 
 copyright_year: 2012-2022
@@ -29,11 +30,11 @@ header_pages:
   - index.html
   - pages/blog.md
 
-footer_pages_sitemap:
+footer_sitemap:
   - index.html
   - pages/blog.md
 
-footer_pages_app:
+footer_app:
   - pages/privacy-policy.md
 
 collections_dir: collections
