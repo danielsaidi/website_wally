@@ -1,19 +1,6 @@
 @import "kankoda/_variables";
 @import "site/_variables";
-
-@import "kankoda/app-store";
-@import "kankoda/blog";
-@import "kankoda/code";
-@import "kankoda/global";
-@import "kankoda/heros";
-@import "kankoda/grids";
-@import "kankoda/images";
-@import "kankoda/layout";
-@import "kankoda/lists";
-@import "kankoda/site-header";
-@import "kankoda/site-footer";
-@import "kankoda/tags";
-@import "kankoda/typography";
+@import "kankoda/_styles";
 
 @import "site/site";
 @import "site/heros";
