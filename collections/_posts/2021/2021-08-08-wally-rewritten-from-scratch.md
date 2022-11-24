@@ -1,7 +1,6 @@
 ---
 title:  Wally is being rewritten from scratch
 date:   2021-08-08 18:00:00 +0100
-tags:   general
 
 image:       https://wally.app/assets/blog/phones-v3-leather.jpg
 image-trans: https://wally.app/assets/blog/phones-v3.png

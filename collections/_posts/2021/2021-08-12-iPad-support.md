@@ -1,7 +1,7 @@
 ---
 title:  iPad support is coming
 date:   2021-08-12 18:00:00 +0100
-tags:   general ipad
+tags:   features ipad
 
 image:       https://wally.app/assets/devices-v3-leather.jpg
 image-trans: https://wally.app/assets/devices.png
