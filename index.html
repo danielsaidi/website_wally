@@ -10,4 +10,15 @@ hero: home
   </p>
 
   {% include kankoda/app-store/button.html %}
+
+  <section class="blog">
+    {% include kankoda/titles/section.html title="Latest posts" link="/blog" %}
+    <div class="grid blog list">
+      {% for post in site.posts limit:2 %}
+          <div>
+            {% include kankoda/blog/post-list-item.html post=posts.first %}
+          </div>
+      {% endfor %}
+    </div>
+  </section>
 </div>
