@@ -3,12 +3,12 @@ title: Say hi to the new Panama skin!
 date:  2023-09-01 0:06:00 +0100
 tags:  skins
 
-image: /assets/skins/panama.jpg
+image: /assets/headers/panama.jpg
 ---
 
 Wally 4.2 will soon be out, with more updates and new features...and a new skin! Say hi to Panama!
 
-![iOS devices running Wally]({{page.image}} "Wally 4.0"){:width="450px"}
+![iOS devices running Wally]({{page.image}} "Wally 4.0")
 
 Wally 4 was launched a eyar ago, and added the support for skins, which lets you personalize your wallet with different materials.
 
