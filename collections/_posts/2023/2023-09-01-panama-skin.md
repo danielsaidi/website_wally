@@ -8,9 +8,9 @@ image: /assets/headers/panama.jpg
 
 Wally 4.2 will soon be out, with more updates and new features...and a new skin! Say hi to Panama!
 
-![iOS devices running Wally]({{page.image}} "Wally 4.0")
+![iOS device using the new Panama skin]({{page.image}})
 
-Wally 4 was launched a eyar ago, and added the support for skins, which lets you personalize your wallet with different materials.
+Wally 4 was launched a year ago, and added the support for skins, which lets you personalize your wallet with different materials.
 
 The app has so far had a standard, black leather theme, a delicate, blue leather theme and a classic, brown leather theme without a name.
 
