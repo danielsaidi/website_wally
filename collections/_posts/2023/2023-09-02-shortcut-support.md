@@ -1,6 +1,6 @@
 ---
 title: Wally gets support for Shortcuts
-date:  2023-09-02 0:06:00 +0100
+date:  2023-09-02 06:00 +0100
 tags:  features
 
 image: /assets/headers/shortcuts.jpg
