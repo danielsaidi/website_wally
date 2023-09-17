@@ -1,9 +1,9 @@
 ---
 title: Say hi to the new Panama skin!
-date:  2023-09-01 0:06:00 +0100
+date:  2023-09-01 06:00 +0100
 tags:  skins
 
-image: /assets/headers/panama.jpg
+image: /assets/headers/skin-panama.jpg
 ---
 
 Wally 4.2 will soon be out, with more updates and new features...and a new skin! Say hi to Panama!

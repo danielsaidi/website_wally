@@ -1,11 +1,11 @@
 ---
-title: New Denim skin!
+title: New Denim skin
 date:  2023-09-12 06:00 +0100
 tags:  skins
 
-image: /assets/headers/denim.jpg
+image: /assets/headers/skin-denim.jpg
 
-panama: https://wally.app/blog/2023/08/31/panama-skin
+panama: https://wally.app/blog/2023/09/01/panama-skin
 ---
 
 Wally 4.3 will soon be out with a bunch of new features...and a brand new skin! Say hi to Denim!
