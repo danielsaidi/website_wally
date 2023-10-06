@@ -1,5 +1,5 @@
-.hero {
-background-size: $texture-size;
+.hero-line {
+  background: linear-gradient(to top left, $texture-overlay 0%, $texture-overlay 50%, transparent 50%, transparent 100%) !important;
 }
 
 .home {
