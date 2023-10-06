@@ -1,6 +1,6 @@
 ---
 title: Extended Shortcuts support
-date:  2023-09-18 06:00 +0100
+date:  2023-09-18 06:00:00 +0100
 tags:  features
 
 image: /assets/blog/devices-v4-leather.jpg

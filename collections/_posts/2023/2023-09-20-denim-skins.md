@@ -1,6 +1,6 @@
 ---
 title: New Diesel and Stonewashed skins
-date:  2023-09-20 07:00 +0100
+date:  2023-09-20 07:00:00 +0100
 tags:  skins
 
 image: /assets/headers/skin-diesel.jpg

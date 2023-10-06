@@ -1,6 +1,6 @@
 ---
 title: Say hi to the new Panama skin!
-date:  2023-09-01 06:00 +0100
+date:  2023-09-01 06:00:00 +0100
 tags:  skins
 
 image: /assets/headers/skin-panama.jpg

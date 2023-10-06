@@ -1,6 +1,6 @@
 ---
 title: New Denim skin
-date:  2023-09-12 06:00 +0100
+date:  2023-09-12 06:00:00 +0100
 tags:  skins
 
 image: /assets/headers/skin-denim.jpg
