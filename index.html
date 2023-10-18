@@ -14,10 +14,16 @@ description: Wally is a digital backup of your physical wallet. Put your cards i
     Wally protects your cards with biometric authentication and can generate QR codes and barcodes for your cards.
   </p>
 
-  {% include kankoda/app-store/button.html %}
+  {% include kankoda/apps/app-store-button.html %}
 
-  <section class="blog">
-    {% include kankoda/titles/section.html title="Latest posts" link="/blog" %}
+  <section>
+    <h2>Latest news</h2>
+    <div>
+      <a href="/blog">Blog</a> ·
+      <a href="{{ site.twitter_url }}">Twitter</a> ·
+      <a href="{{ site.mastodon_url }}">Mastodon</a>
+    </div>
+    <p></p>
     <div class="grid blog list">
       {% for post in site.posts limit:2 %}
           <div>
